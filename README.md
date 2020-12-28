@@ -2,7 +2,6 @@
    
 -----
 
-<a href="https://twitter.com/AlpayErgul?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @AlpayErgul</a>
 
 
 -----
