@@ -12,6 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alpayergul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alpayergul" height="30" width="40" /></a>
+<a href="https://twitter.com/alpayergul" target="blank"><img align="center" src="https://marka-logo.com/wp-content/uploads/2020/04/Twitter-Logo.png" alt="alpayergul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alpay-ergül-a7382a123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alpay-ergül-a7382a123" height="30" width="40" /></a>
 </p>
