@@ -1,4 +1,4 @@
-<center>Hello My Guest 🤠<</center>
+<center>Hello My Guest 🤠</center>
    
 -----
 
