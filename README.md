@@ -1,4 +1,5 @@
-<div align="center"><p><b>DEVELOPER AT THE WORLD 🌎</b></p> </div>
+<h1 align="center">Hi 👋, I'm Alpay</h1>
+<h3 align="center">DEVELOPER AT THE WORLD 🌎</h3>
    
 -----
 
