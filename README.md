@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F76F29&center=true&vCenter=true&lines=Hi%C2%A0%F0%9F%91%8B%2C+I'm+Alpay)](https://git.io/typing-svg)
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=F75338AC&lines=Hi%F0%9F%91%8B++I'm+Alpay)](https://git.io/typing-svg)</h3>
 <h3 align="center">DEVELOPER AT THE WORLD 🌎</h3>
    
 -----
